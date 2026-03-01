@@ -1,25 +1,25 @@
 # Sales Performance Analysis Dashboard
 
-Overview
+## Overview
 Power BI dashboard analyzing sales performance and customer behavior
 to support business decision-making and revenue optimization.
 
-Dataset
-Sales transaction dataset including:
+## Dataset
+## Sales transaction dataset including:
 - Revenue
 - Quantity sold
 - Product performance
 - Customer segments
 - Sales by time
 
-Tools & Skills
+## Tools & Skills
 - Power BI
 - Power Query
 - DAX
 - Data Modeling
 - Business Analysis
 
-Key KPIs
+## Key KPIs
 - Total Sales
 - Total Profit
 - Total Orders
@@ -27,10 +27,10 @@ Key KPIs
 - Average Order Value
 - Revenue by Product
 
-Data Model
+## Data Model
 model_schema.png
 
-Dashboard Preview
+## Dashboard Preview
 screenshots/overview.png
 
 ## Live Power BI Dashboard
