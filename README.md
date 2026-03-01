@@ -28,10 +28,12 @@ to support business decision-making and revenue optimization.
 - Revenue by Product
 
 ## Data Model
-model_schema.png
+modelschema1.png
+modelschema2.png
 
 ## Dashboard Preview
-screenshots/overview.png
+dashboard1.png
+dashboard2.png
 
 ## Live Power BI Dashboard
 https://app.powerbi.com/view?r=eyJrIjoiM2MzZDJlNmQtOGMxYi00YjIwLWI1YTgtMGU1NzFhYjQ3NzEzIiwidCI6Ijk4YWRhNjgwLWUzZjQtNDhjYi04ZmJiLWM4YjEwY2I5N2FlZCIsImMiOjEwfQ%3D%3D
